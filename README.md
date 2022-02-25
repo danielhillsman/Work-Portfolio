@@ -76,3 +76,6 @@ Repo Link:
 https://github.com/danielhillsman/Work-Portfolio
 Live Repo Link:
 https://danielhillsman.github.io/Work-Portfolio
+
+ <img src="./assets/images/capture">
+ <img src="./assets/images/capture1">
