@@ -78,4 +78,4 @@ Live Repo Link:
 https://danielhillsman.github.io/Work-Portfolio
 
  <img src="https://github.com/danielhillsman/Work-Portfolio/blob/main/assets/images/Capture.PNG">
- <img src="./assets/images/capture1">
+ <img src="https://github.com/danielhillsman/Work-Portfolio/blob/main/assets/images/Capture1.PNG">
